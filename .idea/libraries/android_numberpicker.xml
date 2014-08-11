@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="android-numberpicker">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../android-numberpicker" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../android-numberpicker/library/gen" />
+      <root url="file://$PROJECT_DIR$/../android-numberpicker/library/src" />
+      <root url="file://$PROJECT_DIR$/../android-numberpicker/samples/src" />
+    </SOURCES>
+  </library>
+</component>

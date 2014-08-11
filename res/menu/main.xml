@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.universo.futeboldasgalaxias.MainActivity">
+
+    <item
+            android:id="@+id/action_about"
+            android:orderInCategory="105"
+            android:title="@string/action_about"
+            app:showAsAction="never"/>
+
+    <item
+            android:id="@+id/action_cad_grupos"
+            android:orderInCategory="100"
+            android:title="@string/action_cad_grupos"
+            app:showAsAction="never"/>
+
+    <item
+            android:id="@+id/action_cad_jogadores"
+            android:orderInCategory="101"
+            android:title="@string/action_cad_jogadores"
+            app:showAsAction="never"/>
+
+</menu>

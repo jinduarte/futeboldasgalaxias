@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Futebol das Galáxias</string>
+    <string name="title_section1">Partida</string>
+    <string name="title_section2">Lances</string>
+    <string name="title_section3">Cartola</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_cad_grupos">Grupos</string>
+    <string name="action_cad_jogadores">Jogadores</string>
+    <string name="action_about">Sobre</string>
+    <string name="title_activity_grupos_cadastro">Cadastro de Grupos</string>
+    <string name="title_activity_jogadores_cadastro">Cadastro de Jogadores</string>
+    <string name="dados_do_grupo">DADOS DO GRUPO</string>
+    <string name="nome_">"Nome "</string>
+    <string name="descricao_">"Descricao "</string>
+    <string name="configuracoes_de_partida">CONFIGURAÇÕES DE PARTIDA</string>
+    <string name="quantidade_de_gols">Quantidade de Gols</string>
+    <string name="gol_s_por_partida">Gol(s) por Partida</string>
+    <string name="tempo_de_duracao_de_partida">Tempo de duração de Partida</string>
+    <string name="_10_min_s_por_partida">10 Min(s) por Partida</string>
+
+</resources>
